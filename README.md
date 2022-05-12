@@ -38,7 +38,7 @@ To find out more about the distribution of the important features we highlighted
 
 **Process**
 
-![workflow](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gbtec.com%2Fes%2Frecursos%2Fprocess-mining%2F&psig=AOvVaw3Svuvf9fIZujjdyrWwlRpX&ust=1652461556448000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIiapZa52vcCFQAAAAAdAAAAABAD)
+![workflow](![image](https://user-images.githubusercontent.com/101712996/168130972-518a353b-83bd-43fc-acc3-ce3a5d39db34.png))
 
 - **Github:** set up our Github repo to collaborate on. <br/>
 - **Trello:** set up our Trello board to stay organised and reprioritise daily.<br/>
@@ -55,25 +55,22 @@ To find out more about the distribution of the important features we highlighted
 **- iteration 6 (X_i5):** using Decision tree model on the df of iteration 2 to check which model is stronger <br/>
 
 **Tools**
- - **Database:** MyWorkbench - [Link to SQL folder](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/sql)
+ - **Database:** MyWorkbench - [Link to SQL folder](https://github.com/cathvos/MidbootcampProject/tree/main/datasets)
  - **Vizualizations:** Tableau
- - **Code:** Jupyter Notebook - [Link to code folder](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/code)
+ - **Code:** Jupyter Notebook - [Link to code folder](https://github.com/cathvos/MidbootcampProject/tree/main/code)
 
 ## Visualizations
 
 For further visualisations check out our Tableau workbook or the presentation we've done below.
 
 [Tableau](https://public.tableau.com/app/profile/cath7944/viz/IHprojectweek5/Dashboard?publish=yes) <br/>
-[Presentation](https://slides.com/josephinebiedermann/deck)
+[Tableau](https://public.tableau.com/app/profile/cath7944/viz/IHprojectweek5extra/DetailDashboard2) <br/>
+[Presentation](https://github.com/cathvos/MidbootcampProject/blob/main/deliverables/Project_presentation.pptx)
 
 ## Key Take Aways
 
-### 1. Our model can predict a customer accepting or declining the credit card offer with an accuracy of 84%
-### 2. We suspect the following features to impact the customers decision to accept the most:
-  - mailer type
-  - credit rating
-  - income level
-  - reward
+### 1. Our model can predict the price of a house with an accuracy of 80%
+### 2. The mean absolute error of the best model is around 100K
 # 
 
 **Thank you for reading!** <br/>
