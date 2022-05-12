@@ -38,7 +38,7 @@ To find out more about the distribution of the important features, you can have 
 
 **Process**
 
-![workflow](![image](https://github.com/cathvos/MidbootcampProject/blob/main/images/Process.jpeg?raw=true))
+![workflow](https://github.com/cathvos/MidbootcampProject/blob/main/images/Process.jpeg?raw=true)
 
 - **Github:** set up our Github repo to collaborate on. <br/>
 - **Trello:** set up our Trello board to stay organised and reprioritise daily.<br/>
