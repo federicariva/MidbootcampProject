@@ -29,9 +29,13 @@ Can we build a machine learning model that predicts the selling price of houses?
 ## Data
 
 Working with the [data](https://github.com/cathvos/MidbootcampProject/tree/main/datasets) provided, we used mainly Tableau's data visualisation tools as well as Python´s to explore the relationships between features. <br/> <br/>
+
+![workflow](https://raw.githubusercontent.com/cathvos/MidbootcampProject/main/Images/Screenshot%202022-05-12%20at%2018.50.33.png)
+![workflow](https://raw.githubusercontent.com/cathvos/MidbootcampProject/main/Images/Screenshot%202022-05-12%20at%2018.51.05.png)
+<br/>
 To find out more about the distribution of the important features, you can have a look on our Tableau dashboard below:<br/>
 ![Tableau Dashboard](https://public.tableau.com/app/profile/cath7944/viz/IHprojectweek5/Dashboard?publish=yes)
-<br/>
+
 <br/>For further details on all features, please refer to the [notebook](https://github.com/cathvos/MidbootcampProject/blob/main/code/Python_code.ipynb).
 
 ## Process & Tools
