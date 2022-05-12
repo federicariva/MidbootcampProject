@@ -38,9 +38,7 @@ To find out more about the distribution of the important features we highlighted
 
 **Process**
 
-Our ways of working included an iterative/agile approach circling through the following steps:
-
-![workflow](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/presentation/workflow.png?raw=true")
+![workflow](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gbtec.com%2Fes%2Frecursos%2Fprocess-mining%2F&psig=AOvVaw3Svuvf9fIZujjdyrWwlRpX&ust=1652461556448000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIiapZa52vcCFQAAAAAdAAAAABAD)
 
 - **Github:** set up our Github repo to collaborate on. <br/>
 - **Trello:** set up our Trello board to stay organised and reprioritise daily.<br/>
