@@ -7,11 +7,11 @@ by [Federica Riva](https://github.com/federicariva) & [Cath Vos](https://github.
 
 ## Table of content
 
-- [Project Brief]
-- [Data]
-- [Process & Tools]
-- [Visualization]
-- [Key Take Aways]
+- Project Brief
+- Data
+- Process & Tools
+- Visualization
+- Key Take Aways
 
 ## Project Brief
 **Scenario:**
@@ -19,12 +19,12 @@ We are working as analysts for a real estate company. Our company wants to build
 of houses based on a variety of features on which the value of the house is evaluated.
 
 **Challenge:**
-To build a model that will predict the price of a house based on features provided in the dataset. The senior management also wants to explore the characteristics of the houses using some business intelligence tool. One of those parameters include understanding which factors are responsible for higher property value - $650K and above.
+To build a model that will predict the price of a house based on features provided in the dataset. 
+
+The senior management also wants to explore the characteristics of the houses using some business intelligence tools, one of those parameters include understanding which factors are responsible for higher property value - $650K and above.
 
 **Problem:**
 Can we build a machine learning model that predicts the selling price of houses?<br/><br/>
-
-Further project details such as deliverables can be found [here](https://github.com/cathvos/MidbootcampProject/tree/main/deliverables)
 
 ## Data
 
@@ -45,7 +45,7 @@ To find out more about the distribution of the important features, you can have 
 - **SQL:** completed the SQL queries<br/>
 - **EDA:** assessment of dataframe to prepare for cleaning<br/>
 - **Data cleaning & wrangling in Python:** drop 'date' column, check for duplicates, drop null values, convert float columns to int<br/>
-- **Prepocessing:** 3 methods - xx, xx and xx<br/>
+- **Prepocessing:** 3 methods - data cleaning, data transformation and data reduction<br/>
 - **Machine Learning Model:** using scikit learn<br/>
 **- iteration 1 (X):** run the base model after basic cleaning steps (duplicates and nulls) and not including ID, and date, to be able to use this as a benchmark<br/>
 **- iteration 2 (X_i2):** removed ID duplicates, dropped wrongly reported data point, dummified yr_renoved, transformed yr_built to age and zip code to distance from most expensive zipcode<br/>
@@ -64,7 +64,7 @@ To find out more about the distribution of the important features, you can have 
 For further visualisations check out our Tableau workbooks or the presentation we've done below.
 
 [Tableau](https://public.tableau.com/app/profile/cath7944/viz/IHprojectweek5/Dashboard?publish=yes) <br/>
-[Tableau](https://public.tableau.com/app/profile/cath7944/viz/IHprojectweek5extra/DetailDashboard2) <br/>
+[Tableau extra](https://public.tableau.com/app/profile/cath7944/viz/IHprojectweek5extra/DetailDashboard2) <br/>
 [Presentation](https://github.com/cathvos/MidbootcampProject/blob/main/deliverables/Project_presentation.pptx)
 
 ## Key Take Aways
