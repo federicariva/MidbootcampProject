@@ -7,11 +7,11 @@ by [Federica Riva](https://github.com/federicariva) & [Cath Vos](https://github.
 
 ## Table of content
 
-- [Project Brief](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#project-brief)
-- [Data](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#data)
-- [Process & Tools](https://github.com/lillaszulyovszky/ironhack-case-study-classification#process--tools)
-- [Visualization](https://github.com/lillaszulyovszky/ironhack-case-study-classification#visualizations)
-- [Key Take Aways](https://github.com/lillaszulyovszky/ironhack-case-study-classification#key-take-aways)
+- [Project Brief]
+- [Data]
+- [Process & Tools]
+- [Visualization]
+- [Key Take Aways]
 
 ## Project Brief
 **Scenario:**
@@ -24,15 +24,15 @@ To build a model that will predict the price of a house based on features provid
 **Problem:**
 Can we build a machine learning model that predicts the selling price of houses?<br/><br/>
 
-Further project details such as deliverables can be found [here](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/project_details)
+Further project details such as deliverables can be found [here](https://github.com/cathvos/MidbootcampProject/tree/main/deliverables)
 
 ## Data
 
-Leveraging on the [data](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/data_sets) we were provided with, we used Tableau's and Python's data visualisation tools to explore the relationships between features. <br/> <br/>
-To find out more about the distribution of the important features we highlighted, you can have a look on our Tableau dashboard below:<br/>
-![Tableau Dashboard](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/metrics_visuals/tableau_dashboard.png?raw=true)
+Working with the [data](https://github.com/cathvos/MidbootcampProject/tree/main/datasets) provided, we used mainly Tableau's data visualisation tools as well as Python´s to explore the relationships between features. <br/> <br/>
+To find out more about the distribution of the important features, you can have a look on our Tableau dashboard below:<br/>
+![Tableau Dashboard](https://public.tableau.com/app/profile/cath7944/viz/IHprojectweek5/Dashboard?publish=yes)
 <br/>
-<br/>For further details on all features, please refer to the [notebook](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/code/Case%20Study%20-%20Classification.ipynb).
+<br/>For further details on all features, please refer to the [notebook](https://github.com/cathvos/MidbootcampProject/blob/main/code/Python_code.ipynb).
 
 ## Process & Tools
 
@@ -42,7 +42,7 @@ To find out more about the distribution of the important features we highlighted
 
 - **Github:** set up our Github repo to collaborate on. <br/>
 - **Trello:** set up our Trello board to stay organised and reprioritise daily.<br/>
-- **SQL:** started with the independent task of completing the SQL queries<br/>
+- **SQL:** completed the SQL queries<br/>
 - **EDA:** assessment of dataframe to prepare for cleaning<br/>
 - **Data cleaning & wrangling in Python:** drop 'date' column, check for duplicates, drop null values, convert float columns to int<br/>
 - **Prepocessing:** 3 methods - xx, xx and xx<br/>
@@ -61,7 +61,7 @@ To find out more about the distribution of the important features we highlighted
 
 ## Visualizations
 
-For further visualisations check out our Tableau workbook or the presentation we've done below.
+For further visualisations check out our Tableau workbooks or the presentation we've done below.
 
 [Tableau](https://public.tableau.com/app/profile/cath7944/viz/IHprojectweek5/Dashboard?publish=yes) <br/>
 [Tableau](https://public.tableau.com/app/profile/cath7944/viz/IHprojectweek5extra/DetailDashboard2) <br/>
@@ -75,4 +75,3 @@ For further visualisations check out our Tableau workbook or the presentation we
 
 **Thank you for reading!** <br/>
 If you have any questions, please reach out to us.<br/><br/>
-Team
