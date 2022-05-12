@@ -3,7 +3,7 @@ by [Federica Riva](https://github.com/federicariva) & [Cath Vos](https://github.
 <br/><br/>
 ## Prediciting the selling price of houses
 
-![Classification Case Study](https://education-team-2020.s3-eu-west-1.amazonaws.com/data-analytics/project+banners/real-state-project.jpg)
+![Classification Case Study](https://github.com/cathvos/MidbootcampProject/blob/main/images/house.jpeg)
 
 ## Table of content
 
