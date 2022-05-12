@@ -7,11 +7,11 @@ by [Federica Riva](https://github.com/federicariva) & [Cath Vos](https://github.
 
 ## Table of content
 
-- [Project Brief](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#project-brief)
-- [Data](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#data)
-- [Process & Tools](https://github.com/lillaszulyovszky/ironhack-case-study-classification#process--tools)
-- [Visualization](https://github.com/lillaszulyovszky/ironhack-case-study-classification#visualizations)
-- [Key Take Aways](https://github.com/lillaszulyovszky/ironhack-case-study-classification#key-take-aways)
+- [Project Brief]
+- [Data]
+- [Process & Tools]
+- [Visualization]
+- [Key Take Aways]
 
 ## Project Brief
 **Scenario:**
@@ -24,27 +24,25 @@ To build a model that will predict the price of a house based on features provid
 **Problem:**
 Can we build a machine learning model that predicts the selling price of houses?<br/><br/>
 
-Further project details such as deliverables can be found [here](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/project_details)
+Further project details such as deliverables can be found [here](https://github.com/cathvos/MidbootcampProject/tree/main/deliverables)
 
 ## Data
 
-Leveraging on the [data](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/data_sets) we were provided with, we used Tableau's and Python's data visualisation tools to explore the relationships between features. <br/> <br/>
-To find out more about the distribution of the important features we highlighted, you can have a look on our Tableau dashboard below:<br/>
-![Tableau Dashboard](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/metrics_visuals/tableau_dashboard.png?raw=true)
+Working with the [data](https://github.com/cathvos/MidbootcampProject/tree/main/datasets) provided, we used mainly Tableau's data visualisation tools as well as Python´s to explore the relationships between features. <br/> <br/>
+To find out more about the distribution of the important features, you can have a look on our Tableau dashboard below:<br/>
+![Tableau Dashboard](https://public.tableau.com/app/profile/cath7944/viz/IHprojectweek5/Dashboard?publish=yes)
 <br/>
-<br/>For further details on all features, please refer to the [notebook](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/code/Case%20Study%20-%20Classification.ipynb).
+<br/>For further details on all features, please refer to the [notebook](https://github.com/cathvos/MidbootcampProject/blob/main/code/Python_code.ipynb).
 
 ## Process & Tools
 
 **Process**
 
-Our ways of working included an iterative/agile approach circling through the following steps:
-
-![workflow](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/images/presentation/workflow.png?raw=true")
+![workflow](![image](https://user-images.githubusercontent.com/101712996/168130972-518a353b-83bd-43fc-acc3-ce3a5d39db34.png))
 
 - **Github:** set up our Github repo to collaborate on. <br/>
 - **Trello:** set up our Trello board to stay organised and reprioritise daily.<br/>
-- **SQL:** started with the independent task of completing the SQL queries<br/>
+- **SQL:** completed the SQL queries<br/>
 - **EDA:** assessment of dataframe to prepare for cleaning<br/>
 - **Data cleaning & wrangling in Python:** drop 'date' column, check for duplicates, drop null values, convert float columns to int<br/>
 - **Prepocessing:** 3 methods - xx, xx and xx<br/>
@@ -57,27 +55,23 @@ Our ways of working included an iterative/agile approach circling through the fo
 **- iteration 6 (X_i5):** using Decision tree model on the df of iteration 2 to check which model is stronger <br/>
 
 **Tools**
- - **Database:** MyWorkbench - [Link to SQL folder](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/sql)
+ - **Database:** MyWorkbench - [Link to SQL folder](https://github.com/cathvos/MidbootcampProject/tree/main/datasets)
  - **Vizualizations:** Tableau
- - **Code:** Jupyter Notebook - [Link to code folder](https://github.com/lillaszulyovszky/ironhack-case-study-classification/tree/main/code)
+ - **Code:** Jupyter Notebook - [Link to code folder](https://github.com/cathvos/MidbootcampProject/tree/main/code)
 
 ## Visualizations
 
-For further visualisations check out our Tableau workbook or the presentation we've done below.
+For further visualisations check out our Tableau workbooks or the presentation we've done below.
 
 [Tableau](https://public.tableau.com/app/profile/cath7944/viz/IHprojectweek5/Dashboard?publish=yes) <br/>
-[Presentation](https://slides.com/josephinebiedermann/deck)
+[Tableau](https://public.tableau.com/app/profile/cath7944/viz/IHprojectweek5extra/DetailDashboard2) <br/>
+[Presentation](https://github.com/cathvos/MidbootcampProject/blob/main/deliverables/Project_presentation.pptx)
 
 ## Key Take Aways
 
-### 1. Our model can predict a customer accepting or declining the credit card offer with an accuracy of 84%
-### 2. We suspect the following features to impact the customers decision to accept the most:
-  - mailer type
-  - credit rating
-  - income level
-  - reward
+### 1. Our model can predict the price of a house with an accuracy of 80%
+### 2. The mean absolute error of the best model is around 100K
 # 
 
 **Thank you for reading!** <br/>
 If you have any questions, please reach out to us.<br/><br/>
-Team
