@@ -9,8 +9,8 @@ by [Federica Riva](https://github.com/federicariva) & [Cath Vos](https://github.
 
 ## Table of content
 
-- Project Brief(#Project-Brief)
-- Data(#Data)
+- Project Brief(#project-brief)
+- Data(#data)
 - Process & Tools(#Process-&-Tools)
 - Visualization(#Visualization)
 - Key Take Aways(#Key-Take-Aways)
