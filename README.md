@@ -1,7 +1,7 @@
-# Iron hack Midbootcamp Project - Regression Case Study
+# Ironhack Mid-bootcamp Project - Regression Case Study
 by [Federica Riva](https://github.com/federicariva) & [Cath Vos](https://github.com/cathvos), May 2021
 <br/><br/>
-## Prediciting the selling price of houses
+## Predicting the selling price of houses
 
 
 
