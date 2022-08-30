@@ -11,7 +11,7 @@ by [Federica Riva](https://github.com/federicariva) & [Cath Vos](https://github.
 
 - [Project Brief](#project-brief)
 - [Data](#data)
-- [Process & Tools](#Process-&-Tools)
+- [Process & Tools](#Process-Tools)
 - [Visualization](#Visualization)
 - [Key Take Aways](#Key-Take-Aways)
 
