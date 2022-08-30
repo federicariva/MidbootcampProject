@@ -28,6 +28,8 @@ The senior management also wants to explore the characteristics of the houses us
 **Problem:**
 Can we build a machine learning model that predicts the selling price of houses?<br/><br/>
 
+Check [this GitHub repo](https://github.com/ironhack-edu/data_mid_bootcamp_project_regression) for the original data and case description.
+
 ## Data
 
 Working with the [data](https://github.com/cathvos/MidbootcampProject/tree/main/datasets) provided, we mainly used Tableau for data visualisation and Python to explore the relationships between features and to develop our machine learning models. <br/> <br/>
