@@ -8,9 +8,9 @@ by [Federica Riva](https://github.com/federicariva) & [Cath Vos](https://github.
  <img src="https://raw.githubusercontent.com/cathvos/MidbootcampProject/main/images/house%202.jpeg" width="600" height="350">
 
 ## Table of content
-
-- Project Brief(#project-brief)
-- Data(#data)
+[Project Outline](#project-outline)
+- [Project Brief](#project-brief)
+- [Data](#data)
 - Process & Tools(#Process-&-Tools)
 - Visualization(#Visualization)
 - Key Take Aways(#Key-Take-Aways)
