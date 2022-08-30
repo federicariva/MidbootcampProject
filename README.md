@@ -60,7 +60,7 @@ To find out more about the distribution of the important features, you can have 
 **- iteration 6 (X_i5):** using Decision tree model on the df of iteration 2 to check which model is stronger <br/>
 
 **Tools**
- - **Database:** MyWorkbench - [Link to SQL folder](https://github.com/cathvos/MidbootcampProject/tree/main/datasets)
+ - **Database:** MyWorkbench - [Link to SQL folder](https://github.com/federicariva/MidbootcampProject/tree/main/deliverables)
  - **Vizualizations:** Tableau
  - **Code:** Jupyter Notebook - [Link to code folder](https://github.com/cathvos/MidbootcampProject/tree/main/code)
 
