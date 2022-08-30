@@ -35,7 +35,7 @@ Working with the [data](https://github.com/cathvos/MidbootcampProject/tree/main/
 ![workflow](https://raw.githubusercontent.com/cathvos/MidbootcampProject/main/Images/Screenshot%202022-05-12%20at%2018.50.33.png)
 ![workflow](https://raw.githubusercontent.com/cathvos/MidbootcampProject/main/Images/Screenshot%202022-05-12%20at%2018.51.05.png)
 <br/>
-To find out more about the distribution of the important features, you can have a look on our Tableau dashboard below: [Tableau Dashboard](https://public.tableau.com/app/profile/cath7944/viz/IHprojectweek5/Dashboard?publish=yes)
+To find out more about the distribution of the important features, you can have a look on our Tableau dashboard: [Tableau Dashboard](https://public.tableau.com/app/profile/cath7944/viz/IHprojectweek5/Dashboard?publish=yes)
 
 <br/>For further details on all features, please refer to the [notebook](https://github.com/cathvos/MidbootcampProject/blob/main/code/Python_code.ipynb).
 
